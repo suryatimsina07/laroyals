@@ -1,0 +1,32 @@
+           @media only screen and (min-width:768px){
+            #wrapper {
+            width: 600px;
+            border: 3px solid rgb(17, 0, 255);
+        }
+        .video{
+            border: 1px solid black;
+            height: auto; 
+            width: auto;
+            margin-top:10px;
+        }
+        .map{
+            border: 1px solid black;
+            height: auto; 
+            width: auto;
+            margin: 10px 0px 0px 0px;
+            
+           
+        }
+        }
+        @media only screen and (min-width:1000px){
+           
+            .video{
+            height: auto; 
+            width: auto;
+        }
+        .Slideshow{
+            border: 1px solid black;
+            width: 1000px; 
+            margin-top: 10px;
+           
+        }
